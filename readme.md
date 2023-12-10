@@ -116,7 +116,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04D012&height=120&section=footer"/>
 
 
-
-
-## Watch snake eating my github contributions 
 ![snake gif](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
