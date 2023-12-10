@@ -14,7 +14,6 @@
 </p>
 
 ### Social:
-### Social:
 <a href="https://www.linkedin.com/in/robert-alves-dos-anjos-br-sp-bob-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
@@ -72,12 +71,29 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)&nbsp;
 
-### ORMs:
+### ORM:
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
+### Pipelines:
+![Kubeflow](https://img.shields.io/badge/Kubeflow-00B0FF?style=for-the-badge&logo=kubeflow&logoColor=white)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+
+### Tracking & Analytics:
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-4285F4?style=for-the-badge&logo=google-tag-manager&logoColor=white)&nbsp;
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)&nbsp;
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-FF004D?style=for-the-badge&logo=appsflyer&logoColor=white)&nbsp;
+
+
+### Dashboard:
+![Looker](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)&nbsp;
+![Redash](https://img.shields.io/badge/Redash-FF3A2D?style=for-the-badge&logo=redash&logoColor=white)&nbsp;
+
  
-### IDEs:
+### IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
