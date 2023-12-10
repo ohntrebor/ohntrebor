@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)&nbsp;
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=21262d&text_color=21262d&bg_color=0d1117" />
 </div>
 
@@ -13,15 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-### test:
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=04D012&text_color=04D012&bg_color=0d1117)
-![GitHub Contributions Snake](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
-![Status Atividade Constante](https://activity-graph.herokuapp.com/graph?username=ohntrebor&theme=github&area=true)
-![Contador de Visitantes](https://profile-counter.glitch.me/ohntrebor/count.svg)
-![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png)
-
 
 
 ### Social:
