@@ -1,16 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21262d&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512BD4&size=35&center=true&vCenter=true&width=1000&lines=Hello+:\)+;My+Nickname+is+Bob;I+am+from+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21262d&size=35&center=true&vCenter=true&width=1000&lines=Hello+:\)+;My+Nickname+is+Bob;I+am+from+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&count_private=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=0d1117" alt="ohntrebor -  github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=512BD4&text_color=512BD4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&count_private=true&hide_border=true&title_color=21262d&icon_color=21262d&text_color=c9d1d9&bg_color=0d1117" alt="ohntrebor -  github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=21262d&text_color=21262d&bg_color=0d1117" />
 </div>
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Social:
@@ -43,7 +45,7 @@
 
  
 ### Frameworks & Library:
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-21262d?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)&nbsp;
@@ -72,7 +74,7 @@
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)&nbsp;
 
 ### ORM:
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-21262d?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 ### Pipelines:
@@ -113,7 +115,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ohntrebor}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21262d&height=120&section=footer"/>
 
 
 ![snake gif](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
