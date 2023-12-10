@@ -14,7 +14,8 @@
 </p>
 
 ### Social:
-<a href="https://www.linkedin.com/in/robert-alves-dos-anjos-br-sp-bob-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+### Social:
+<a href="https://www.linkedin.com/in/robert-alves-dos-anjos-br-sp-bob-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ### Languages:
