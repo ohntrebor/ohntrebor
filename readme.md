@@ -4,16 +4,25 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&count_private=true&hide_border=true&title_color=21262d&icon_color=21262d&text_color=c9d1d9&bg_color=0d1117" alt="ohntrebor -  github stats" /> 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=21262d&text_color=21262d&bg_color=0d1117" />
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+### test:
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=04D012&text_color=04D012&bg_color=0d1117)
+![GitHub Contributions Snake](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
+![Status Atividade Constante](https://activity-graph.herokuapp.com/graph?username=ohntrebor&theme=github&area=true)
+![Contador de Visitantes](https://profile-counter.glitch.me/ohntrebor/count.svg)
+![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png)
+
+
 
 ### Social:
 <a href="https://www.linkedin.com/in/robert-alves-dos-anjos-br-sp-bob-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
