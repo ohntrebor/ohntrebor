@@ -1,33 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <style>
-        body {
-            background-image: url('https://media0.giphy.com/media/zXmbOaTpbY6mA/giphy.gif');
-            background-size: cover;
-            background-repeat: no-repeat;
-            height: 100vh;
-            margin: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-size: 24px;
-        }
-    </style>
-</head>
-
-<body>
-
-    <p>Seu conteúdo vai aqui.</p>
-
-</body>
-
-</html>
-
-
-![GIF](https://media0.giphy.com/media/zXmbOaTpbY6mA/giphy.gif)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04D012&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04D012&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Robert+A.+Anjos;I+am+from+São+Paulo,+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -43,9 +13,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
+### Social:
 <a href="https://www.linkedin.com/in/robert-alves-dos-anjos-br-sp-bob-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div> 
+
 
 ### Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
