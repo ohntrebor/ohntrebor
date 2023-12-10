@@ -18,9 +18,9 @@
 </div> 
  
 ### Frameworks & Library:
-![TESTE](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+(https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+(https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white
 
