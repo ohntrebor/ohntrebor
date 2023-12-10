@@ -2,9 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21262d&size=35&center=true&vCenter=true&width=1000&lines=Hello+:\)+;My+Nickname+is+Bob;I+am+from+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)&nbsp;
 <div align="center">  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dark)&nbsp;
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=21262d&text_color=21262d&bg_color=0d1117" />
 </div>
 
