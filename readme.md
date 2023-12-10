@@ -75,9 +75,6 @@
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
-
-### Web Browsers: 
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
  
 ### IDEs:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -87,8 +84,10 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
+### Web Browsers: 
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
  
-###
+### Streaming:
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)&nbsp;
 
 
@@ -97,16 +96,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ohntrebor}/count.svg" /></p> 
 <br></div>
 
-https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=Python&logoColor=white
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04D012&height=120&section=footer"/>
-
-
- 
 
 
 
 
 ## Watch snake eating my github contributions 
-
 ![snake gif](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
