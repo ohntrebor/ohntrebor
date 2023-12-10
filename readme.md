@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04D012&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04D012&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Robert+A.+Anjos;I+am+from+São+Paulo,+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512BD4&size=35&center=true&vCenter=true&width=1000&lines=Hello+:\)+;My+Nickname+is+Bob;I+am+from+BR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&count_private=true&hide_border=true&title_color=04D012&icon_color=04D012&text_color=c9d1d9&bg_color=0d1117" alt="ohntrebor -  github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=04D012&text_color=04D012&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&count_private=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=c9d1d9&bg_color=0d1117" alt="ohntrebor -  github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&hide_border=true&title_color=512BD4&text_color=512BD4&bg_color=0d1117" />
 </div>
 
 
@@ -113,7 +113,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ohntrebor}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04D012&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer"/>
 
 
 ![snake gif](https://github.com/ohntrebor/ohntrebor/blob/output/github-contribution-grid-snake-dark.svg)
