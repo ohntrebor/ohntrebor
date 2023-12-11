@@ -111,8 +111,9 @@
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)&nbsp;
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/{ohntrebor}/count.svg?color=04D012" />
+  <img align="center" src="https://img.shields.io/badge/Profile%20Views-Counter-04D012.svg" />
 </p>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
