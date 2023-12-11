@@ -7,6 +7,9 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&show_icons=true&theme=tokyonight" />
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=tokyonight" />
 </div>
+
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
@@ -107,6 +110,9 @@
 ### Streaming:
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)&nbsp;
 
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{ohntrebor}/count.svg?color=04D012" />
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
