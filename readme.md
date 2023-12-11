@@ -8,6 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=dracula" />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ohntrebor&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
