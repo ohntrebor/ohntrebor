@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&show_icons=true&theme=tokyonight" />
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=tokyonight" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohntrebor&layout=compact&show_icons=true&theme=tokyonight" alt="Languages ​​used in public projects" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ohntrebor&show_icons=true&theme=tokyonight alt="status github of public projects" />
 </div>
 
 <br/><br/>
