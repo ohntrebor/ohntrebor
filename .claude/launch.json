@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "readme-preview",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8734", "--directory", "C:\\Users\\rober\\AppData\\Local\\Temp\\claude\\C--Users-rober-WebstormProjects-ohntrebor-ohntrebor\\eb4d911e-7208-41ee-ae8f-aca849345285\\scratchpad"],
+      "port": 8734
+    }
+  ]
+}
